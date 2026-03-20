@@ -165,7 +165,7 @@ jobs:
             if ! git diff --quiet README.md; then
               git add README.md
               git commit -m "Update last sync timestamp: ${SYNC_TIME}"
-              git push
+              git push --force-with-lease
               echo "✅ README updated with sync time: ${SYNC_TIME}"
             else
               echo "⚠️ No changes detected in README"
