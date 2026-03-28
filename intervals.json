@@ -1,84 +1,9 @@
 {
-  "generated_at": "2026-03-27T23:31:39.158633",
+  "generated_at": "2026-03-28T00:00:18.332816",
   "version": "3.86",
   "scan_hours": 72,
   "retention_days": 8,
   "activities": [
-    {
-      "activity_id": "i133397136",
-      "date": "2026-03-19",
-      "type": "Run",
-      "name": "Evening Run",
-      "interval_summary": [
-        "1x 4m57s 151bpm",
-        "4x 4m58s 170bpm",
-        "1x 3m50s 177bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "297s@151bpm92rpm",
-          "duration_secs": 297,
-          "avg_hr": 151,
-          "max_hr": 166,
-          "avg_cadence": 91.99315,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "298s@170bpm92rpm",
-          "duration_secs": 294,
-          "avg_hr": 168,
-          "max_hr": 174,
-          "avg_cadence": 92.34694,
-          "zone": 7
-        },
-        {
-          "type": "WORK",
-          "label": "298s@170bpm92rpm",
-          "duration_secs": 307,
-          "avg_hr": 168,
-          "max_hr": 175,
-          "avg_cadence": 92.02606,
-          "zone": 7
-        },
-        {
-          "type": "WORK",
-          "label": "298s@170bpm92rpm",
-          "duration_secs": 304,
-          "avg_hr": 169,
-          "max_hr": 172,
-          "avg_cadence": 92.27631,
-          "zone": 7
-        },
-        {
-          "type": "WORK",
-          "label": "298s@170bpm92rpm",
-          "duration_secs": 286,
-          "avg_hr": 173,
-          "max_hr": 178,
-          "avg_cadence": 92.493004,
-          "zone": 7
-        },
-        {
-          "type": "WORK",
-          "label": "230s@177bpm93rpm",
-          "duration_secs": 230,
-          "avg_hr": 177,
-          "max_hr": 180,
-          "avg_cadence": 93.017395,
-          "zone": 7
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 179,
-          "max_hr": 179,
-          "avg_cadence": 94.0,
-          "zone": 7
-        }
-      ]
-    },
     {
       "activity_id": "i133464948",
       "date": "2026-03-20",
