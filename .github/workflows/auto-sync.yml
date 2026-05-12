@@ -143,7 +143,8 @@ jobs:
           else
             echo "⚠️ Skipping archive - no latest.json to archive"
           fi
-      
+
+      """
       - name: Update README with last sync time
         if: success()
         run: |
@@ -175,6 +176,7 @@ jobs:
               echo "⚠️ No changes detected in README"
             fi
           fi
+      """
       
       - name: Upload data files for download
         if: github.event_name == 'workflow_dispatch'
