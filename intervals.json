@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T09:54:44.421586",
+  "generated_at": "2026-05-20T12:26:37.036101",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -1033,6 +1033,54 @@
           "max_hr": 156,
           "avg_cadence": 94.181816,
           "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i149987921",
+      "date": "2026-05-20",
+      "type": "VirtualRide",
+      "name": "Zwift - London Flat in London",
+      "interval_summary": [
+        "1x 16s 285w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1118,
+          "avg_power": 91,
+          "max_power": 383,
+          "avg_hr": 120,
+          "max_hr": 141,
+          "avg_cadence": 88.38934,
+          "zone": 1,
+          "training_load": 9.95082,
+          "decoupling": -17.515966
+        },
+        {
+          "type": "WORK",
+          "label": "16s@285w105rpm",
+          "duration_secs": 16,
+          "avg_power": 285,
+          "max_power": 311,
+          "avg_hr": 129,
+          "max_hr": 134,
+          "avg_cadence": 105.0,
+          "zone": 7,
+          "training_load": 0.32887554,
+          "decoupling": -8.174123
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 711,
+          "avg_power": 94,
+          "max_power": 254,
+          "avg_hr": 129,
+          "max_hr": 145,
+          "avg_cadence": 92.596344,
+          "zone": 1,
+          "training_load": 7.948867,
+          "decoupling": -10.7438135
         }
       ]
     }
