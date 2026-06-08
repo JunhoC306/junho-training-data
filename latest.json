@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-06-08T14:12:44.545454",
+    "last_updated": "2026-06-08T14:49:27.471628",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -281,7 +281,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": null,
+      "steps": 16620,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -316,7 +316,7 @@
     "tss_7d_total": 581.0,
     "tss_28d_total": 1495.0,
     "zone_distribution_7d": {
-      "z1_hours": 6.45,
+      "z1_hours": 6.44,
       "z2_hours": 2.87,
       "z3_hours": 1.71,
       "z4_plus_hours": 1.07,
@@ -657,7 +657,7 @@
     "p_max": 477,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-06-08T14:12:44.544340",
+    "calculation_timestamp": "2026-06-08T14:49:27.470469",
     "data_quality": {
       "hrv_data_points": 1,
       "rhr_data_points": 1,
@@ -882,7 +882,7 @@
       "description": "204 Training Load\n-- from COROS"
     },
     {
-      "id": "i155147900",
+      "id": "i155387451",
       "date": "2026-06-06T06:32:47",
       "type": "Ride",
       "name": "Morning Ride",
@@ -906,12 +906,12 @@
       "humidity": null,
       "wind_speed": null,
       "wind_speed_unit": "KMH",
-      "work_kj": 1604.6,
+      "work_kj": 1607.8,
       "calories": 3103,
-      "carbs_used": 408,
+      "carbs_used": 409,
       "carbs_ingested": null,
       "variability_index": 1.3678161,
-      "decoupling": 7.6925173,
+      "decoupling": 7.4947615,
       "efficiency_factor": 0.9015151,
       "hrrc": null,
       "elevation_m": 571.0,
@@ -947,8 +947,8 @@
           "z7_time": 0
         },
         "power_zones": {
-          "z1_time": 10281,
-          "z2_time": 3811,
+          "z1_time": 10273,
+          "z2_time": 3819,
           "z3_time": 1552,
           "z4_time": 913,
           "z5_time": 456,
@@ -3330,7 +3330,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": null,
+      "steps": 16620,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
