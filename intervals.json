@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T15:56:31.481219",
+  "generated_at": "2026-06-12T18:11:21.064435",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -1703,6 +1703,48 @@
           "max_hr": 151,
           "avg_cadence": 91.16895,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i156709943",
+      "date": "2026-06-12",
+      "type": "VirtualRide",
+      "name": "Zwift - The Classic in Watopia",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 776,
+          "avg_power": 84,
+          "max_power": 262,
+          "avg_hr": 114,
+          "max_hr": 135,
+          "avg_cadence": 81.31193,
+          "zone": 1,
+          "training_load": 4.628769,
+          "decoupling": 29.766119
+        }
+      ]
+    },
+    {
+      "activity_id": "i156704546",
+      "date": "2026-06-12",
+      "type": "VirtualRide",
+      "name": "Zwift - Cobbled Crown in Richmond",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3632,
+          "avg_power": 105,
+          "max_power": 504,
+          "avg_hr": 122,
+          "max_hr": 150,
+          "avg_cadence": 97.79075,
+          "zone": 2,
+          "training_load": 42.6961,
+          "decoupling": 6.1465383
         }
       ]
     }
