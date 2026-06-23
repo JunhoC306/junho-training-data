@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T08:20:09.227731",
+  "generated_at": "2026-06-23T11:38:45.441491",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -1003,6 +1003,27 @@
           "zone": 2,
           "training_load": 21.922419,
           "decoupling": 5.0944986
+        }
+      ]
+    },
+    {
+      "activity_id": "i159642840",
+      "date": "2026-06-23",
+      "type": "VirtualRide",
+      "name": "Zwift - INEOS Grenadiers Virtual Training Camp | The Cafe Ride",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2616,
+          "avg_power": 117,
+          "max_power": 222,
+          "avg_hr": 126,
+          "max_hr": 147,
+          "avg_cadence": 94.93731,
+          "zone": 2,
+          "training_load": 32.819305,
+          "decoupling": 13.515777
         }
       ]
     }
