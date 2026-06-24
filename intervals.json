@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T09:33:06.972140",
+  "generated_at": "2026-06-24T12:09:48.502971",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -913,6 +913,27 @@
           "zone": 2,
           "training_load": 32.819305,
           "decoupling": 13.515777
+        }
+      ]
+    },
+    {
+      "activity_id": "i159947913",
+      "date": "2026-06-24",
+      "type": "VirtualRide",
+      "name": "Zwift - Loop de Loop in Watopia",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2223,
+          "avg_power": 122,
+          "max_power": 401,
+          "avg_hr": 128,
+          "max_hr": 147,
+          "avg_cadence": 92.61359,
+          "zone": 2,
+          "training_load": 30.63047,
+          "decoupling": 3.478432
         }
       ]
     }
