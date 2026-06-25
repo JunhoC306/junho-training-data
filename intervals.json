@@ -1,85 +1,10 @@
 {
-  "generated_at": "2026-06-24T23:43:11.388644",
+  "generated_at": "2026-06-25T01:50:46.796697",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i156129473",
-      "date": "2026-06-10",
-      "type": "Run",
-      "name": "Lunch Run",
-      "interval_summary": [
-        "6x 6m28s 136bpm",
-        "1x 3m39s 148bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "388s@136bpm91rpm",
-          "duration_secs": 384,
-          "avg_hr": 125,
-          "max_hr": 141,
-          "avg_cadence": 90.8153,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "388s@136bpm91rpm",
-          "duration_secs": 386,
-          "avg_hr": 136,
-          "max_hr": 147,
-          "avg_cadence": 91.52591,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "388s@136bpm91rpm",
-          "duration_secs": 398,
-          "avg_hr": 135,
-          "max_hr": 141,
-          "avg_cadence": 90.44221,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "388s@136bpm91rpm",
-          "duration_secs": 395,
-          "avg_hr": 136,
-          "max_hr": 142,
-          "avg_cadence": 90.70886,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "388s@136bpm91rpm",
-          "duration_secs": 387,
-          "avg_hr": 139,
-          "max_hr": 149,
-          "avg_cadence": 90.689926,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "388s@136bpm91rpm",
-          "duration_secs": 378,
-          "avg_hr": 144,
-          "max_hr": 157,
-          "avg_cadence": 91.75132,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "219s@148bpm91rpm",
-          "duration_secs": 219,
-          "avg_hr": 148,
-          "max_hr": 151,
-          "avg_cadence": 91.16895,
-          "zone": 2
-        }
-      ]
-    },
     {
       "activity_id": "i156709943",
       "date": "2026-06-12",
