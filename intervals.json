@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T17:36:05.046098",
+  "generated_at": "2026-06-28T18:50:13.872757",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -764,6 +764,54 @@
           "avg_hr": 162,
           "max_hr": 162,
           "zone": 4
+        }
+      ]
+    },
+    {
+      "activity_id": "i161038004",
+      "date": "2026-06-28",
+      "type": "VirtualRide",
+      "name": "Zwift - NYC KOM After Party in New York",
+      "interval_summary": [
+        "1x 3m35s 173w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3777,
+          "avg_power": 125,
+          "max_power": 333,
+          "avg_hr": 136,
+          "max_hr": 158,
+          "avg_cadence": 102.84803,
+          "zone": 2,
+          "training_load": 56.919323,
+          "decoupling": 6.072415
+        },
+        {
+          "type": "WORK",
+          "label": "215s@173w102rpm",
+          "duration_secs": 215,
+          "avg_power": 173,
+          "max_power": 202,
+          "avg_hr": 154,
+          "max_hr": 160,
+          "avg_cadence": 101.57209,
+          "zone": 4,
+          "training_load": 5.107013,
+          "decoupling": -0.053312916
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1211,
+          "avg_power": 122,
+          "max_power": 300,
+          "avg_hr": 145,
+          "max_hr": 165,
+          "avg_cadence": 98.90504,
+          "zone": 2,
+          "training_load": 21.298018,
+          "decoupling": 0.22548395
         }
       ]
     }
