@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T09:08:11.306523",
+  "generated_at": "2026-06-29T13:15:28.974944",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -698,6 +698,27 @@
           "zone": 2,
           "training_load": 21.298018,
           "decoupling": 0.22548395
+        }
+      ]
+    },
+    {
+      "activity_id": "i161188475",
+      "date": "2026-06-29",
+      "type": "VirtualRide",
+      "name": "Zwift - Expand",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1811,
+          "avg_power": 121,
+          "max_power": 216,
+          "avg_hr": 128,
+          "max_hr": 154,
+          "avg_cadence": 95.1651,
+          "zone": 2,
+          "training_load": 25.280033,
+          "decoupling": 7.519273
         }
       ]
     }
