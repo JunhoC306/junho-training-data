@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T09:38:57.027566",
+  "generated_at": "2026-06-30T12:00:13.721653",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -652,6 +652,27 @@
           "zone": 2,
           "training_load": 25.280033,
           "decoupling": 7.519273
+        }
+      ]
+    },
+    {
+      "activity_id": "i161465451",
+      "date": "2026-06-30",
+      "type": "VirtualRide",
+      "name": "Zwift - 8. Five Bumps",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2441,
+          "avg_power": 102,
+          "max_power": 292,
+          "avg_hr": 122,
+          "max_hr": 148,
+          "avg_cadence": 100.84842,
+          "zone": 2,
+          "training_load": 34.421913,
+          "decoupling": -2.0725741
         }
       ]
     }
