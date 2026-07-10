@@ -1,31 +1,10 @@
 {
-  "generated_at": "2026-07-09T21:58:10.745387",
+  "generated_at": "2026-07-10T01:09:23.993768",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i160220745",
-      "date": "2026-06-25",
-      "type": "VirtualRide",
-      "name": "Zwift - Aerobic Triple Rhythm",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 2112,
-          "avg_power": 110,
-          "max_power": 269,
-          "avg_hr": 134,
-          "max_hr": 148,
-          "avg_cadence": 99.22869,
-          "zone": 2,
-          "training_load": 22.818207,
-          "decoupling": 7.5584655
-        }
-      ]
-    },
     {
       "activity_id": "i160736433",
       "date": "2026-06-27",
