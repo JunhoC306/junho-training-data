@@ -1,58 +1,10 @@
 {
-  "generated_at": "2026-07-31T23:01:41.378525",
+  "generated_at": "2026-08-01T00:11:10.218658",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i166559274",
-      "date": "2026-07-17",
-      "type": "VirtualRide",
-      "name": "Zwift - Cirque du Suffer in Paris",
-      "interval_summary": [
-        "1x 9m10s 130w"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1278,
-          "avg_power": 109,
-          "max_power": 236,
-          "avg_hr": 119,
-          "max_hr": 143,
-          "avg_cadence": 89.38811,
-          "zone": 2,
-          "training_load": 17.688581,
-          "decoupling": -7.29426
-        },
-        {
-          "type": "WORK",
-          "label": "550s@130w92rpm",
-          "duration_secs": 550,
-          "avg_power": 130,
-          "max_power": 229,
-          "avg_hr": 134,
-          "max_hr": 144,
-          "avg_cadence": 91.71455,
-          "zone": 3,
-          "training_load": 9.07204,
-          "decoupling": 7.9052005
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 817,
-          "avg_power": 108,
-          "max_power": 197,
-          "avg_hr": 131,
-          "max_hr": 145,
-          "avg_cadence": 85.716034,
-          "zone": 2,
-          "training_load": 10.205433,
-          "decoupling": 10.611812
-        }
-      ]
-    },
     {
       "activity_id": "i168035569",
       "date": "2026-07-22",
