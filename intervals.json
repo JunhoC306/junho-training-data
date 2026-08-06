@@ -1,31 +1,10 @@
 {
-  "generated_at": "2026-08-05T23:00:10.047023",
+  "generated_at": "2026-08-06T00:06:57.145285",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i168035569",
-      "date": "2026-07-22",
-      "type": "VirtualRide",
-      "name": "Zwift - Cr\u00eape Escape in Paris",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 2204,
-          "avg_power": 115,
-          "max_power": 242,
-          "avg_hr": 139,
-          "max_hr": 158,
-          "avg_cadence": 92.77269,
-          "zone": 2,
-          "training_load": 31.47328,
-          "decoupling": -0.9472651
-        }
-      ]
-    },
     {
       "activity_id": "i169444829",
       "date": "2026-07-26",
