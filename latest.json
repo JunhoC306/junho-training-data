@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-08-08T13:15:13.929526",
+    "last_updated": "2026-08-08T14:00:18.609641",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -124,7 +124,7 @@
       },
       "acwr": {
         "status": "green",
-        "value": 1.16
+        "value": 0.84
       },
       "ri": {
         "status": "unavailable",
@@ -133,7 +133,7 @@
       },
       "tsb": {
         "status": "green",
-        "value": 15.0
+        "value": 14.9
       }
     },
     "signal_summary": {
@@ -194,10 +194,10 @@
   },
   "current_status": {
     "fitness": {
-      "ctl": 35.35,
-      "atl": 20.39,
-      "tsb": 14.96,
-      "ramp_rate": -3.91,
+      "ctl": 35.37,
+      "atl": 20.44,
+      "tsb": 14.93,
+      "ramp_rate": -3.92,
       "fitness_source": "From Intervals.icu API (reflects completed workouts)"
     },
     "thresholds": {
@@ -283,7 +283,7 @@
     "rhr_baseline_28d": null,
     "latest_hrv": null,
     "latest_rhr": null,
-    "acwr": 1.16,
+    "acwr": 0.84,
     "acwr_interpretation": "optimal",
     "monotony": 0.59,
     "monotony_interpretation": "normal",
@@ -296,7 +296,7 @@
     "stress_tolerance": 1.0,
     "load_recovery_ratio": null,
     "tss_7d_total": 100.0,
-    "tss_28d_total": 346.0,
+    "tss_28d_total": 475.0,
     "zone_distribution_7d": {
       "z1_hours": 0.9,
       "z2_hours": 0.28,
@@ -337,23 +337,23 @@
       "sport": "run"
     },
     "seiler_tid_28d": {
-      "z1_seconds": 21316,
-      "z2_seconds": 3927,
-      "z3_seconds": 3725,
-      "z1_pct": 73.6,
-      "z2_pct": 13.6,
-      "z3_pct": 12.9,
+      "z1_seconds": 26154,
+      "z2_seconds": 6298,
+      "z3_seconds": 4298,
+      "z1_pct": 71.2,
+      "z2_pct": 17.1,
+      "z3_pct": 11.7,
       "polarization_index": null,
       "classification": "Pyramidal",
       "zone_basis": "mixed"
     },
     "seiler_tid_28d_primary": {
-      "z1_seconds": 6024,
-      "z2_seconds": 1741,
-      "z3_seconds": 1296,
-      "z1_pct": 66.5,
-      "z2_pct": 19.2,
-      "z3_pct": 14.3,
+      "z1_seconds": 10862,
+      "z2_seconds": 4112,
+      "z3_seconds": 1869,
+      "z1_pct": 64.5,
+      "z2_pct": 24.4,
+      "z3_pct": 11.1,
       "polarization_index": null,
       "classification": "Pyramidal",
       "zone_basis": "hr",
@@ -639,7 +639,7 @@
     "p_max": 482,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-08-08T13:15:13.928421",
+    "calculation_timestamp": "2026-08-08T14:00:18.608487",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
@@ -968,104 +968,214 @@
       "description": "102 Training Load\n-- from COROS"
     },
     {
-      "id": "19561955432",
+      "id": "i173732302",
       "date": "2026-08-01T17:23:50",
-      "type": "Unknown",
-      "name": "",
-      "duration_hours": 0.0,
-      "distance_km": 0.0,
-      "tss": null,
-      "intensity_factor": null,
+      "type": "Run",
+      "name": "Afternoon Run",
+      "duration_hours": 1.13,
+      "distance_km": 10.39,
+      "tss": 76,
+      "intensity_factor": 82.080795,
       "avg_power": null,
       "normalized_power": null,
-      "avg_hr": null,
-      "max_hr": null,
-      "avg_cadence": null,
-      "avg_speed": null,
+      "avg_hr": 153,
+      "max_hr": 164,
+      "avg_cadence": 87.28758,
+      "avg_speed": 9.2,
       "avg_speed_unit": "KPH",
-      "max_speed": null,
+      "max_speed": 10.7,
       "max_speed_unit": "KPH",
       "avg_pace": null,
-      "avg_temp": null,
+      "avg_temp": 33.0,
       "avg_temp_unit": "C",
       "weather": null,
       "humidity": null,
       "wind_speed": null,
       "wind_speed_unit": "KMH",
       "work_kj": null,
-      "calories": null,
+      "calories": 842,
       "carbs_used": null,
       "carbs_ingested": null,
       "variability_index": null,
       "decoupling": null,
       "efficiency_factor": null,
       "hrrc": null,
-      "elevation_m": null,
+      "elevation_m": 104.90943,
       "display": {
         "distance": {
-          "value": 0.0,
+          "value": 10.39,
           "unit": "km"
         },
-        "elevation": null,
-        "avg_speed": null,
-        "max_speed": null
+        "elevation": {
+          "value": 105,
+          "unit": "m"
+        },
+        "avg_speed": {
+          "value": 9.2,
+          "unit": "km/h"
+        },
+        "max_speed": {
+          "value": 10.7,
+          "unit": "km/h"
+        }
       },
       "feel": null,
       "rpe": null,
       "effort_response": null,
-      "zone_distribution": null,
+      "zone_distribution": {
+        "hr_zones": {
+          "z1_time": 200,
+          "z2_time": 1270,
+          "z3_time": 2035,
+          "z4_time": 558,
+          "z5_time": 0,
+          "z6_time": 0,
+          "z7_time": 0
+        }
+      },
       "has_intervals": false,
-      "has_dfa": false
+      "has_dfa": false,
+      "terrain_summary": {
+        "source": "activity_streams",
+        "total_distance_km": 10.4,
+        "total_elevation_m": 55,
+        "elevation_per_km": 5.3,
+        "course_character": "rolling",
+        "max_grade_pct": 2.6,
+        "grade_distribution": {
+          "flat_pct": 81.2,
+          "gentle_pct": 18.8,
+          "moderate_pct": 0.0,
+          "steep_pct": 0.0
+        },
+        "start_coords": [
+          40.72399,
+          -74.07903
+        ],
+        "climbs": [],
+        "descents": [],
+        "display": {
+          "total_distance": {
+            "value": 10.4,
+            "unit": "km"
+          },
+          "total_elevation": {
+            "value": 55,
+            "unit": "m"
+          },
+          "elevation_per_distance": {
+            "value": 5,
+            "unit": "m/km"
+          }
+        }
+      },
+      "weather_status": "unavailable",
+      "description": "205 Training Load\n-- from COROS"
     },
     {
-      "id": "19527179361",
+      "id": "i173732291",
       "date": "2026-07-30T05:59:11",
-      "type": "Unknown",
-      "name": "",
-      "duration_hours": 0.0,
-      "distance_km": 0.0,
-      "tss": null,
-      "intensity_factor": null,
+      "type": "Run",
+      "name": "Morning Run",
+      "duration_hours": 1.03,
+      "distance_km": 8.97,
+      "tss": 53,
+      "intensity_factor": 71.64616,
       "avg_power": null,
       "normalized_power": null,
-      "avg_hr": null,
-      "max_hr": null,
-      "avg_cadence": null,
-      "avg_speed": null,
+      "avg_hr": 143,
+      "max_hr": 161,
+      "avg_cadence": 86.970924,
+      "avg_speed": 8.7,
       "avg_speed_unit": "KPH",
-      "max_speed": null,
+      "max_speed": 10.1,
       "max_speed_unit": "KPH",
       "avg_pace": null,
-      "avg_temp": null,
+      "avg_temp": 27.0,
       "avg_temp_unit": "C",
       "weather": null,
       "humidity": null,
       "wind_speed": null,
       "wind_speed_unit": "KMH",
       "work_kj": null,
-      "calories": null,
+      "calories": 689,
       "carbs_used": null,
       "carbs_ingested": null,
       "variability_index": null,
       "decoupling": null,
       "efficiency_factor": null,
       "hrrc": null,
-      "elevation_m": null,
+      "elevation_m": 91.90429,
       "display": {
         "distance": {
-          "value": 0.0,
+          "value": 8.97,
           "unit": "km"
         },
-        "elevation": null,
-        "avg_speed": null,
-        "max_speed": null
+        "elevation": {
+          "value": 92,
+          "unit": "m"
+        },
+        "avg_speed": {
+          "value": 8.7,
+          "unit": "km/h"
+        },
+        "max_speed": {
+          "value": 10.1,
+          "unit": "km/h"
+        }
       },
       "feel": null,
       "rpe": null,
       "effort_response": null,
-      "zone_distribution": null,
+      "zone_distribution": {
+        "hr_zones": {
+          "z1_time": 1597,
+          "z2_time": 1771,
+          "z3_time": 336,
+          "z4_time": 15,
+          "z5_time": 0,
+          "z6_time": 0,
+          "z7_time": 0
+        }
+      },
       "has_intervals": false,
-      "has_dfa": false
+      "has_dfa": false,
+      "terrain_summary": {
+        "source": "activity_streams",
+        "total_distance_km": 9.0,
+        "total_elevation_m": 69,
+        "elevation_per_km": 7.7,
+        "course_character": "rolling",
+        "max_grade_pct": 5.6,
+        "grade_distribution": {
+          "flat_pct": 78.4,
+          "gentle_pct": 15.6,
+          "moderate_pct": 6.0,
+          "steep_pct": 0.0
+        },
+        "start_coords": [
+          40.73173,
+          -74.06892
+        ],
+        "climbs": [],
+        "descents": [],
+        "display": {
+          "total_distance": {
+            "value": 9.0,
+            "unit": "km"
+          },
+          "total_elevation": {
+            "value": 69,
+            "unit": "m"
+          },
+          "elevation_per_distance": {
+            "value": 8,
+            "unit": "m/km"
+          }
+        }
+      },
+      "weather_status": "unavailable",
+      "description": "129 Training Load\n-- from COROS"
     },
     {
       "id": "i169444829",
