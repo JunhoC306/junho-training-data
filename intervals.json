@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T21:40:16.600883",
+  "generated_at": "2026-10-06T01:55:36.048360",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -816,6 +816,54 @@
           "avg_hr": 164,
           "max_hr": 164,
           "zone": 4
+        }
+      ]
+    },
+    {
+      "activity_id": "i194057576",
+      "date": "2026-10-05",
+      "type": "VirtualRide",
+      "name": "Zwift - Montmartre Mixer in Paris",
+      "interval_summary": [
+        "1x 92s 198w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1910,
+          "avg_power": 106,
+          "max_power": 340,
+          "avg_hr": 120,
+          "max_hr": 145,
+          "avg_cadence": 90.9504,
+          "zone": 2,
+          "training_load": 23.939884,
+          "decoupling": -1.7853422
+        },
+        {
+          "type": "WORK",
+          "label": "92s@198w96rpm",
+          "duration_secs": 92,
+          "avg_power": 198,
+          "max_power": 232,
+          "avg_hr": 152,
+          "max_hr": 160,
+          "avg_cadence": 95.945656,
+          "zone": 5,
+          "training_load": 3.1253827,
+          "decoupling": 12.81497
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1667,
+          "avg_power": 106,
+          "max_power": 343,
+          "avg_hr": 133,
+          "max_hr": 161,
+          "avg_cadence": 93.10438,
+          "zone": 2,
+          "training_load": 22.608055,
+          "decoupling": -23.131912
         }
       ]
     }
