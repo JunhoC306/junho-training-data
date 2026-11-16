@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T05:16:03.184254",
+  "generated_at": "2026-11-16T13:54:32.206823",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -867,6 +867,80 @@
           "max_hr": 157,
           "avg_cadence": 89.8375,
           "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i210729648",
+      "date": "2026-11-16",
+      "type": "VirtualRide",
+      "name": "Zwift - California Dreamin' in Watopia",
+      "interval_summary": [
+        "1x 92s 159w",
+        "1x 80s 168w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 907,
+          "avg_power": 111,
+          "max_power": 274,
+          "avg_hr": 123,
+          "max_hr": 139,
+          "avg_cadence": 86.37927,
+          "zone": 2,
+          "training_load": 12.138666,
+          "decoupling": 9.691815
+        },
+        {
+          "type": "WORK",
+          "label": "92s@159w91rpm",
+          "duration_secs": 92,
+          "avg_power": 159,
+          "max_power": 186,
+          "avg_hr": 141,
+          "max_hr": 147,
+          "avg_cadence": 90.565216,
+          "zone": 4,
+          "training_load": 2.07,
+          "decoupling": 8.316723
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1367,
+          "avg_power": 110,
+          "max_power": 309,
+          "avg_hr": 136,
+          "max_hr": 148,
+          "avg_cadence": 95.724945,
+          "zone": 2,
+          "training_load": 17.680077,
+          "decoupling": 7.365197
+        },
+        {
+          "type": "WORK",
+          "label": "80s@168w107rpm",
+          "duration_secs": 80,
+          "avg_power": 168,
+          "max_power": 251,
+          "avg_hr": 153,
+          "max_hr": 159,
+          "avg_cadence": 107.4,
+          "zone": 4,
+          "training_load": 2.1444829,
+          "decoupling": -6.2169166
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 40,
+          "avg_power": 4,
+          "max_power": 181,
+          "avg_hr": 147,
+          "max_hr": 159,
+          "avg_cadence": 8.1,
+          "zone": 1,
+          "training_load": 0.49574682,
+          "decoupling": 100.0
         }
       ]
     }
